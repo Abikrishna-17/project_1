@@ -53,3 +53,4 @@ connection.query(q, data, (err, result) => {
 app.listen(port,()=>{
     console.log("running");
 });
+
